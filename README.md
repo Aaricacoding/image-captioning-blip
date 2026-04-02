@@ -5,6 +5,9 @@
 > **Tech Stack:** Python · PyTorch · HuggingFace Transformers · BLIP · Gradio  
 
 ---
+## 🖥️ Demo
+
+![App Demo](demo.png)
 
 ## 📌 What is this project?
 
